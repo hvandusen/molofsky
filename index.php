@@ -1,7 +1,3 @@
 <?php get_header(); ?>
-<a href='advertisements'>ads</a>
-<a href='books'>books</a>
-aaaaab
-	<?php get_template_part( 'loop', 'index' ); ?>
-<?php get_sidebar(); ?>
+hey henry's site here not much to see but whatever
 <?php get_footer(); ?>
